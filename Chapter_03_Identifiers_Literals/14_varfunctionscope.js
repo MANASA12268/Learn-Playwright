@@ -1,7 +1,7 @@
 var a = 10; //global scope 
 console.log( a );
 
-// Definatio of the function
+// Definition of the function
 
 function print() {
     console.log( "Hello to the function scope" );
@@ -15,4 +15,4 @@ function print() {
 }
 console.log( "g-->", a );
 
-printhello();
+print();
