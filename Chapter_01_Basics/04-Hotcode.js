@@ -7,3 +7,13 @@ for ( let i = 0; i < 1000; i++ ); {
     result = add( i, i + 1 );
 }
 consol.log( "After 100 calls:", result );
+
+
+sayhello();
+function sayhello(){
+    console.log("hello manasa");
+}
+
+
+
+
